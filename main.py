@@ -26,7 +26,7 @@ gap_x = 0 * mm
 gap_y = 0 * mm
 
 # Load logo
-logo_path = 'logo.png'
+logo_path = 'companylogo.png'
 photos_dir = './photos/'    # folder with photos
 fallback_photo = 'sb.jpg'   # default photo if missing
 logo_img = Image.open(logo_path)
