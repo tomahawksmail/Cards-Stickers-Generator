@@ -35,3 +35,7 @@ The PDF is optimized for printing.
 
 📄 License
 MIT License — Free for personal or commercial use.
+
+
+## 📦 Create exe file for Windows
+pyinstaller --noconsole --add-data "photos;photos" --add-data "emp.csv;emp.csv" --add-data "logo-usko.png;logo-usko.png" --icon=icon.ico main.py
