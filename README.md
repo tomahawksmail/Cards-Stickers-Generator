@@ -1,4 +1,4 @@
-# 🪪 Employee Badge Generator (PDF)
+# -ˋˏ✄┈┈┈┈ Employee Badge Generator (PDF)
 
 This Python script generates printable employee ID cards in PDF format using data from a CSV file. Each card includes the employee's **name**, **job title**, **photo**, **company logo**, and a **QR code**.
 
